@@ -1,4 +1,4 @@
-Skin:["Name":{"粉色主题"};"Background:{"null"};"ForeColor":{255,255,138,248};"FocusColor":{145,250,0,0};];
-Skin:["Name":{"红色主题"};"Background:{"null"};"ForeColor":{255,255,138,248};"FocusColor":{145,250,0,0};];
-Skin:["Name":{"黑色主题"};"Background:{"null"};"ForeColor":{255,255,138,248};"FocusColor":{145,250,0,0};];
+Skin:["Name":{"粉色主题"};"Background:{"null"};"ForeColor":{255,255,255,255};"ForeFocusColor":{255,255,117,227};];
+Skin:["Name":{"红色主题"};"Background:{"null"};"ForeColor":{255,255,138,248};"FocusColor":{255,255,0,0};];
+Skin:["Name":{"黑色主题"};"Background:{"null"};"ForeColor":{255,255,138,248};"FocusColor":{255,125,125,125};];
 Skin:["Name":{"蓝色主题"};"Background:{"null"};"ForeColor":{255,255,138,248};"FocusColor":{145,250,0,0};];
